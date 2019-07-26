@@ -27,8 +27,8 @@ main {
 .grid-view div.card.ui {
   margin: 1.25rem;
 }
-/*
-.main-img {
+
+/* .main-img {
   display: block;
   border-radius: 100%;
   margin: 0 auto;
@@ -36,7 +36,6 @@ main {
 
 header h1 {
   text-align: center;
-
 }
 
 .nav-btn {
@@ -48,6 +47,7 @@ header h1 {
   color: black;
   border-radius: 3px;
   font-style: normal;
+  padding-bottom: 30px;
 }
 .tabs {
   margin-top: 20px;
